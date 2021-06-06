@@ -1,0 +1,13 @@
+beginseg
+	name "code"
+	flags BOOT OBJECT
+	entry boot
+	stack bootStack + 0x2000
+	include "code.o"
+	address 0x80020000
+endseg
+
+beginwave
+	name "xinput"
+	include	"code"
+endwave
