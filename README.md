@@ -7,7 +7,7 @@
 3. Run `make` in the src directory
 
 ### Installation
-1. Download the latest release from the [releases](https://github.com/Jhynjhiruu/QInput/releases/tag/latest) tab
+1. Download the latest release from the [releases](https://github.com/Jhynjhiruu/QInput/releases/latest) tab
 2. Add QInput.dat to your hackit.sys using [ticket.sys-editor](https://github.com/iQueBrew/ticket.sys-editor)
 3. Copy hackit.sys and 008aeae5.app to your console using iQueDiagExtend
 
